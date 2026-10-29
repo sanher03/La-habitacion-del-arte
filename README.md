@@ -3,7 +3,8 @@
 Aplicación de escritorio para gestionar un centro de exposiciones. Permite
 consultar exposiciones y ofrece flujos diferenciados para clientes registrados,
 empleados y el gestor. Está desarrollada en Java con Swing y organiza las vistas
-y controladores siguiendo un enfoque MVC.
+y controladores siguiendo un enfoque MVC. Desarrollada para la asignatura de PADSOF
+de la UAM.
 
 ## Requisitos
 
